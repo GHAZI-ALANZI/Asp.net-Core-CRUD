@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Asp.net_core_CRUD.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<Aspnet_core_CRUDContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Aspnet_core_CRUDContext") ?? throw new InvalidOperationException("Connection string 'Aspnet_core_CRUDContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=books}/{action=Index}/{id?}");
 
 app.Run();
