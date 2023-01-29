@@ -1,0 +1,30 @@
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\appsettings.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.staticwebassets.runtime.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.exe
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.deps.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.runtimeconfig.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.dll
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\bin\Debug\net6.0\Asp.net core-CRUD.pdb
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.AssemblyInfoInputs.cache
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.AssemblyInfo.cs
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.RazorAssemblyInfo.cache
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.RazorAssemblyInfo.cs
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.Asp.net core-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.Asp.net core-CRUD.props
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net core-CRUD.props
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Asp.net core-CRUD.props
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\scopedcss\bundle\Asp.net core-CRUD.styles.css
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\scopedcss\projectbundle\Asp.net core-CRUD.bundle.scp.css
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.dll
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\refint\Asp.net core-CRUD.dll
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.pdb
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\Asp.net core-CRUD.genruntimeconfig.cache
+C:\Users\gh\Source\Repos\Asp.net-Core-CRUD\Asp.net core-CRUD\obj\Debug\net6.0\ref\Asp.net core-CRUD.dll

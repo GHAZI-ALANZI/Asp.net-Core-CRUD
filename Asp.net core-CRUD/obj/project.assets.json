@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c# projects\\Asp.net core-CRUD\\Asp.net core-CRUD\\Asp.net core-CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\gh\\Source\\Repos\\Asp.net-Core-CRUD\\Asp.net core-CRUD\\Asp.net core-CRUD.csproj",
       "projectName": "Asp.net core-CRUD",
-      "projectPath": "E:\\c# projects\\Asp.net core-CRUD\\Asp.net core-CRUD\\Asp.net core-CRUD.csproj",
+      "projectPath": "C:\\Users\\gh\\Source\\Repos\\Asp.net-Core-CRUD\\Asp.net core-CRUD\\Asp.net core-CRUD.csproj",
       "packagesPath": "C:\\Users\\gh\\.nuget\\packages\\",
-      "outputPath": "E:\\c# projects\\Asp.net core-CRUD\\Asp.net core-CRUD\\obj\\",
+      "outputPath": "C:\\Users\\gh\\Source\\Repos\\Asp.net-Core-CRUD\\Asp.net core-CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
